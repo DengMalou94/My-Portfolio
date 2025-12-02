@@ -20,7 +20,7 @@ body {
 .container {
     max-width: 1200px;
     margin: auto;
-    padding: 0 20px;
+    padding: 0 10px;
 }
 
 /* HEADER */
@@ -691,6 +691,7 @@ body{
   .intro-text p{
     width: 100%;
     text-align: center;
+    padding-inline: 10px;
   }
   .intro-text h1,
   .intro-text p{
@@ -723,6 +724,7 @@ body{
   .intro-text p{
     width: 100%;
     text-align: center;
+    
   }
   .overview-btn{
     margin-left: auto;
@@ -796,7 +798,7 @@ body{
   /*Hire Me Page Responsive*/ 
 @media (max-width: 650px) {
   body {
-    padding: 20px 10px;
+    padding: 30px 0px;
     align-items: center;
   }
   .hire-container {
