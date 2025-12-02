@@ -41,14 +41,17 @@ The goal is to give visitors, employers, and collaborators a clear overview of w
 • Google Fonts (Poppins)  
 • Git & GitHub for version control  
 • Vercel (Deployment)  
+• GitHub Pages (Deployment)
+
 
 ---
 
 ## Live Demo
 
-This portfolio is deployed on **Vercel**.  
+This portfolio is deployed on **Vercel** and **Github Pages**
 
-🔗 **https://my-portfolio-rho-six-69.vercel.app/**
+🔗**https://my-portfolio-rho-six-69.vercel.app/**
+🔗**https://dengmalou94.github.io/My-Portfolio/**
 
 ---
 
@@ -108,6 +111,7 @@ open index.html
 • GitHub: https://github.com/DengMalou94  
 • LinkedIn: https://www.linkedin.com/in/deng-malou94?trk=contact-info  
 • Portfolio (Live): https://my-portfolio-rho-six-69.vercel.app/  
+
 
 ---
 
