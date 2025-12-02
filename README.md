@@ -6,7 +6,7 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ---
 
-## 🚀 Features
+Features
 
 * **Modern, clean, responsive design**
 * Built using **HTML, CSS, and JavaScript**
@@ -23,7 +23,7 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -33,7 +33,7 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ---
 
-## 📸 Project Structure
+Project Structure
 
 ```
 /
@@ -48,7 +48,7 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ---
 
-## 📬 Contact
+Contact
 
 If you’d like to collaborate, hire me, or connect:
 
@@ -58,7 +58,7 @@ If you’d like to collaborate, hire me, or connect:
 
 ---
 
-## 📄 License
+License
 
 This project is open-source. You may view and reference the code, but please give credit if you reuse major parts of it.
 
