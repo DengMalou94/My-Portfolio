@@ -3,7 +3,6 @@
 Welcome to my **Personal Portfolio Website**, a modern and responsive platform that highlights my work as a **Front-End Developer, IT Instructor, Teacher, and Data Analyst**.  
 This site showcases my projects, skills, experience, and a bit of who I am.
 
----
 
 ## About the Project
 
@@ -18,7 +17,6 @@ It includes sections for:
 
 The goal is to give visitors, employers, and collaborators a clear overview of what I do and what I can offer.
 
----
 
 ## Features
 
@@ -30,7 +28,6 @@ The goal is to give visitors, employers, and collaborators a clear overview of w
 • Modern and consistent UI styling  
 • Easy-to-update structure  
 
----
 
 ## Technologies Used
 
@@ -42,7 +39,6 @@ The goal is to give visitors, employers, and collaborators a clear overview of w
 • Git & GitHub for version control  
 • Vercel (Deployment)  
 
----
 
 ## Live Demo
 
@@ -50,7 +46,6 @@ This portfolio is deployed on **Vercel**.
 
 🔗 **https://my-portfolio-rho-six-69.vercel.app/**
 
----
 
 ## File Structure
 
@@ -63,7 +58,6 @@ root/
 │– images/
 │– README.md
 
----
 
 ## How to Use / Navigate
 
@@ -72,7 +66,6 @@ root/
 • On mobile, tap the hamburger menu for smooth navigation  
 • Open the project section to explore project cards and links  
 
----
 
 ## Installation (For Local Use)
 
@@ -88,7 +81,6 @@ Run it locally:
 
 open index.html
 
----
 
 ## Future Improvements
 
@@ -98,7 +90,6 @@ open index.html
 • Add a blog section  
 • Add a dark/light theme toggle  
 
----
 
 ## Author
 
@@ -109,8 +100,7 @@ open index.html
 • LinkedIn: https://www.linkedin.com/in/deng-malou94?trk=contact-info  
 • Portfolio (Live): https://my-portfolio-rho-six-69.vercel.app/  
 
----
 
 ## License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source
