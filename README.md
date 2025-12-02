@@ -37,10 +37,10 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ```
 /
-├── home.html
+├── index.html
 ├── about.html
 ├── project.html
-├── hiremet.html
+├── hireme.html
 ├── styles.css
 ├── images/
 
