@@ -1,4 +1,4 @@
-Personal Portfolio – Deng Malou
+##Personal Portfolio – Deng Malou
 
 Welcome to my personal portfolio!
 This project showcases my work as a **Front-End Developer**, **Digital Skills Trainer**, and **Junior Intern Developer** with experience in **HTML**, **CSS**, **JavaScript**, and **Joomla CMS**.
@@ -6,7 +6,7 @@ The portfolio highlights my skills, projects, and professional journey while off
 
 ---
 
-Features
+##Features
 
 * **Modern, clean, responsive design**
 * Built using **HTML, CSS, and JavaScript**
@@ -23,7 +23,7 @@ Features
 
 ---
 
-Technologies Used
+##Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -33,7 +33,7 @@ Technologies Used
 
 ---
 
-Project Structure
+##Project Structure
 
 ```
 /
@@ -48,7 +48,7 @@ Project Structure
 
 ---
 
-Contact
+##Contact
 
 If you’d like to collaborate, hire me, or connect:
 
