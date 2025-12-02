@@ -1,64 +1,116 @@
-## Personal Portfolio – Deng Malou
+# Personal Portfolio – Deng Malou
 
-Welcome to my personal portfolio!
-This project showcases my work as a **Front-End Developer**, **Digital Skills Trainer**, and **Junior Intern Developer** with experience in **HTML**, **CSS**, **JavaScript**, and **Joomla CMS**.
-The portfolio highlights my skills, projects, and professional journey while offering an easy way for visitors to explore my work and connect with me.
+Welcome to my **Personal Portfolio Website**, a modern and responsive platform that highlights my work as a **Front-End Developer, IT Instructor, Teacher, and Data Analyst**.  
+This site showcases my projects, skills, experience, and a bit of who I am.
+
+---
+
+## About the Project
+
+This portfolio is designed to present my professional journey in a clean and visually engaging way.
+
+It includes sections for:
+
+• Hire Me  
+• About Me  
+• Projects  
+• home
+
+The goal is to give visitors, employers, and collaborators a clear overview of what I do and what I can offer.
 
 ---
 
 ## Features
 
-* **Modern, clean, responsive design**
-* Built using **HTML, CSS, and JavaScript**
-* Mobile-friendly navigation
-* Sections for **About Me**, **Projects**, **Contact**, and more
-* Links to my GitHub, LinkedIn, and other platforms
-* A showcase of real projects, including:
-
-  * Market Tracker App
-  * Weather App
-  * SSD Basketball Photo Gallery
-  * E-commerce Page
-  * Joomla Website Designs
+• Fully responsive design  
+• Interactive navigation  
+• Mobile hamburger menu  
+• Project cards with visuals  
+• Smooth scrolling  
+• Modern and consistent UI styling  
+• Easy-to-update structure  
 
 ---
 
 ## Technologies Used
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (Vanilla)**
-* **Font Awesome** for icons
-* **Responsive Web Design** principles
+• HTML5  
+• CSS3  
+• JavaScript (Vanilla JS)  
+• Font Awesome Icons  
+• Google Fonts (Poppins)  
+• Git & GitHub for version control  
+• Vercel (Deployment)  
 
 ---
 
-## Project Structure
+## Live Demo
 
-```
-/
-├── index.html
-├── about.html
-├── project.html
-├── hireme.html
-├── styles.css
-├── images/
+This portfolio is deployed on **Vercel**.  
 
-```
+🔗 **https://my-portfolio-rho-six-69.vercel.app/**
 
 ---
 
-## Contact
+## File Structure
 
-If you’d like to collaborate, hire me, or connect:
+root/
+│– index.html
+│– about.html
+│– project.html
+│– hireme.html
+│– styles.css
+│– images/
+│– README.md
 
-* **Email:** [dengmalou74@gmail.com](mailto:dengmalou74@gmail.com)
-* **GitHub:** [https://github.com/DengMalou94](https://github.com/DengMalou94)
+---
 
+## How to Use / Navigate
+
+• Open the homepage to view the hero introduction  
+• Use the navigation bar to explore the About, Projects, and Hire Me pages  
+• On mobile, tap the hamburger menu for smooth navigation  
+• Open the project section to explore project cards and links  
+
+---
+
+## Installation (For Local Use)
+
+Clone the repository:
+
+git clone https://github.com/DengMalou94/My-Portfolio.git
+
+Open the project folder:
+
+cd My-Portfolio
+
+Run it locally:
+
+open index.html
+
+---
+
+## Future Improvements
+
+• Add animations using GSAP or AOS  
+• Implement backend for the contact form  
+• Improve SEO optimization  
+• Add a blog section  
+• Add a dark/light theme toggle  
+
+---
+
+## Author
+
+**Deng Malou**
+
+• Developer | IT Instructor | Teacher  
+• GitHub: https://github.com/DengMalou94  
+• LinkedIn: https://www.linkedin.com/in/deng-malou94?trk=contact-info  
+• Portfolio (Live): https://my-portfolio-rho-six-69.vercel.app/  
 
 ---
 
 ## License
 
-This project is open-source. You may view and reference the code, but please give credit if you reuse major parts of it.
-
+This project is open-source and available under the **MIT License**.
