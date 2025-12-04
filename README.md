@@ -1,6 +1,6 @@
 # Personal Portfolio – Deng Malou
 
-Welcome to my **Personal Portfolio Website**, a modern and responsive platform that highlights my work as a **Front-End Developer, IT Instructor, Teacher, and Data Analyst**.  
+Welcome to my **Personal Portfolio Website**, a modern and responsive platform that highlights my work as a **Front-End Developer, IT Instructor, and Teacher**.  
 This site showcases my projects, skills, experience, and a bit of who I am.
 
 ---
