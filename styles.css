@@ -13,7 +13,7 @@
 body {
     background: #F2E8CF; 
     color: #708238; 
-    line-height: 1.2;
+    line-height: 1.4;
     
 }
 /* Utility container */
@@ -71,6 +71,7 @@ body {
 
 .nav a:hover {
     color: #D9822B;
+    text-decoration: line-through;
     
 }
 
@@ -131,15 +132,16 @@ body {
 }
 
 /* MOBILE MENU STYLING */
+
 .mobile-menu {
     position: fixed;
     top: 0;
     right: 0;
     height: 100vh;
     width: 100%; 
-    max-width: 400px;
+    max-width: 900px;
     backdrop-filter: blur(20px);
-    background: rgba(255, 255, 255, 0.407);
+    background: rgba(255, 255, 255, 0.778);
     box-shadow: -4px 0 25px rgba(0,0,0,0.25);
     transform: translateX(100%);
     transition: transform 0.35s ease-in-out;
@@ -411,6 +413,7 @@ body {
 }
 
 /*ABOUT SECION STYLING*/
+
 .section-container {
     max-width: 1200px;
     margin: 20px auto;
@@ -440,7 +443,7 @@ body {
 .hero-image img {
   max-width: 100%;
   height: auto;
-  border-radius: 60%;
+  border-radius: 50%;
   object-fit: cover;
  
 }
@@ -697,7 +700,7 @@ button:hover {
 }
 
 /*
-   HOME + TABLET STACK (≤ 1024px)
+   HOME + TABLET RESPONSIVE (≤ 1024px)
 */
 @media (max-width:1024px) {
 
